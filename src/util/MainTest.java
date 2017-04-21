@@ -4,8 +4,8 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 
-import parser.Parser;
-import parser.SimpleNode;
+import parser2.Parser;
+import parser2.SimpleNode;
 
 public class MainTest {
 	public static void main(String args [])
